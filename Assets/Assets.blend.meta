@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: c1eb324b16f49f34596943c9c776a666
+timeCreated: 1506276977
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barrel
+    100004: Chainsaw
+    100006: Clip
+    100008: Cutouts
+    100010: Front_Cover
+    100012: Ground
+    100014: Ground_MeshPart0
+    100016: Ground_MeshPart1
+    100018: Gun_Body
+    100020: Gun_Body_001
+    100022: Pitcher_Plant
+    100024: Plane
+    100026: Player
+    100028: Slide
+    100030: Test_Prism
+    100032: Tree_1_collision_mesh
+    100034: Tree_Foliage_1
+    100036: Tree_Trunk_1
+    100038: VFT
+    100040: VFT2
+    100042: VFT_3
+    400000: //RootNode
+    400002: Barrel
+    400004: Chainsaw
+    400006: Clip
+    400008: Cutouts
+    400010: Front_Cover
+    400012: Ground
+    400014: Ground_MeshPart0
+    400016: Ground_MeshPart1
+    400018: Gun_Body
+    400020: Gun_Body_001
+    400022: Pitcher_Plant
+    400024: Plane
+    400026: Player
+    400028: Slide
+    400030: Test_Prism
+    400032: Tree_1_collision_mesh
+    400034: Tree_Foliage_1
+    400036: Tree_Trunk_1
+    400038: VFT
+    400040: VFT2
+    400042: VFT_3
+    2300000: Barrel
+    2300002: Chainsaw
+    2300004: Clip
+    2300006: Cutouts
+    2300008: Front_Cover
+    2300010: Ground_MeshPart0
+    2300012: Ground_MeshPart1
+    2300014: Gun_Body
+    2300016: Gun_Body_001
+    2300018: Pitcher_Plant
+    2300020: Plane
+    2300022: Player
+    2300024: Slide
+    2300026: Test_Prism
+    2300028: Tree_1_collision_mesh
+    2300030: Tree_Foliage_1
+    2300032: Tree_Trunk_1
+    2300034: VFT
+    2300036: VFT2
+    2300038: VFT_3
+    3300000: Barrel
+    3300002: Chainsaw
+    3300004: Clip
+    3300006: Cutouts
+    3300008: Front_Cover
+    3300010: Ground_MeshPart0
+    3300012: Ground_MeshPart1
+    3300014: Gun_Body
+    3300016: Gun_Body_001
+    3300018: Pitcher_Plant
+    3300020: Plane
+    3300022: Player
+    3300024: Slide
+    3300026: Test_Prism
+    3300028: Tree_1_collision_mesh
+    3300030: Tree_Foliage_1
+    3300032: Tree_Trunk_1
+    3300034: VFT
+    3300036: VFT2
+    3300038: VFT_3
+    4300000: Gun_Body_001
+    4300002: Cutouts
+    4300004: VFT_3
+    4300006: VFT2
+    4300008: VFT
+    4300010: Pitcher_Plant
+    4300012: Plane
+    4300014: Gun_Body
+    4300016: Barrel
+    4300018: Slide
+    4300020: Clip
+    4300022: Front_Cover
+    4300024: Chainsaw
+    4300026: Player
+    4300028: Ground_MeshPart0
+    4300030: Ground_MeshPart1
+    4300032: Test_Prism
+    4300034: Tree_Trunk_1
+    4300036: Tree_1_collision_mesh
+    4300038: Tree_Foliage_1
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
